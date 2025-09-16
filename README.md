@@ -19,8 +19,6 @@ This workshop introduced students to Robotics where students of grade 3 to 5 lea
 
 ### Resources
 
-<img width="675" height="381" alt="Screenshot 2025-09-15 170141" src="https://github.com/user-attachments/assets/69e3b2fa-eddd-4aac-a8dc-bc8b49a8c39c" />
-<img width="676" height="384" alt="Screenshot 2025-09-15 170202" src="https://github.com/user-attachments/assets/17217828-4878-476f-b8ed-27f289e30b5e" />
-<img width="678" height="380" alt="Screenshot 2025-09-15 170228" src="https://github.com/user-attachments/assets/48094ef3-64a5-4af8-8215-4e9e96b66dfc" />
-<img width="675" height="378" alt="Screenshot 2025-09-15 170257" src="https://github.com/user-attachments/assets/e226b9dd-2808-4eb6-a9b3-b1151ec717a2" />
+<img width="582" height="515" alt="Teacher Resources" src="https://github.com/user-attachments/assets/2be08722-ff62-4e70-b579-4952e735fe0f" />
 
+Note: The original training documents are protected under an NDA and cannot be shared publicly; further details are available upon request.
