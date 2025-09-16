@@ -17,7 +17,7 @@ This workshop introduced students to Robotics where students of grade 3 to 5 lea
 
 <img width="2000" height="965" alt="White Beige Minimalist Photo Collage Wraparound Mug" src="https://github.com/user-attachments/assets/18c3d9d5-2093-4514-87ac-8f1dc0635245" />
 
-### Resources
+### Final Deliverables
 
 <img width="582" height="515" alt="Teacher Resources" src="https://github.com/user-attachments/assets/2be08722-ff62-4e70-b579-4952e735fe0f" />
 
